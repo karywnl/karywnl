@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:karywnl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/karywnl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/karywnl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.tensortonic.com/profile/kary"><img src="https://img.shields.io/badge/TensorTonic-2D9B27?style=for-the-badge&logoColor=white"/></a>
   <a href="https://leetcode.com/u/karywnl/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://substack.com/@karywnl"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
