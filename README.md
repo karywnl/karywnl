@@ -18,6 +18,6 @@ An undergrad in Data Science who is about to do a Postgrad. I like to introduce 
 
 ## Achievements and Certifications
 
-GATE 2026 Qualified - Data Science & Artificial Intelligence (DA) | Score: 409 | AIR: 5899 / 69,242
+[GATE 2026 Qualified - Data Science & Artificial Intelligence (DA) | Score: 409 | AIR: 5899 / 69,242](https://github.com/karywnl/karywnl/blob/main/DA26S87465095_ScoreCard.pdf)
 
 ---
