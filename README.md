@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karthikeyan M !!</h1>
+<h1 align="center">Hi, I'm Kary !!</h1>
 
 <p align="center">
   <a href="mailto:karywnl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
