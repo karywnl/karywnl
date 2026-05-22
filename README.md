@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Kary+!!" alt="Hi, I'm Kary !!" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=60&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Hi%2C+I'm+Kary+!!" alt="Hi, I'm Kary !!" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=99999&color=8B949E&center=true&vCenter=true&width=500&height=36&lines=Data+Science+%7C+Math+%7C+Code" alt="Data Science | Math | Code" />
 </p>
 
 <p align="center">
