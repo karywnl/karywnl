@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Kary !!</h1>
-
 <p align="center">
   <a href="mailto:karywnl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/karywnl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
@@ -13,3 +12,10 @@ An undergrad in Data Science who is about to do a Postgrad. I like to introduce 
 
 ## Achievements and Certifications
 [GATE 2026 Qualified - Data Science & Artificial Intelligence (DA) | Score: 409 | AIR: 5899 / 69,242](https://github.com/karywnl/karywnl/blob/main/DA26S87465095_ScoreCard.pdf)
+
+## Find me at
+[Email](mailto:karywnl@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/karywnl/)  
+[TensorTonic](https://www.tensortonic.com/profile/kary)  
+[LeetCode](https://leetcode.com/u/karywnl/)  
+[Substack](https://substack.com/@karywnl)
