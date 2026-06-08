@@ -6,6 +6,5 @@ An undergrad in Data Science who is about to do a Postgrad. I like to introduce 
 ## Find me at
 [Email](mailto:karywnl@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/karywnl/)  
-[TensorTonic](https://www.tensortonic.com/profile/kary)  
-[LeetCode](https://leetcode.com/u/karywnl/)  
 [Substack](https://substack.com/@karywnl)
+[X](https://x.com/karywnl_)
