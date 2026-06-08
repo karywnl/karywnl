@@ -7,4 +7,5 @@ An undergrad in Data Science who is about to do a Postgrad. I like to introduce 
 [Email](mailto:karywnl@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/karywnl/)  
 [Substack](https://substack.com/@karywnl)
+
 [X](https://x.com/karywnl_)
